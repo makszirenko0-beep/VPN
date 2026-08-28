@@ -15,3 +15,4 @@ trojan://A_YcVyVZvfztB6BLqmRbjPY2uLphzyMu@fr.nnmm.me:443?security=tls&sni=fr.nnm
 trojan://A_YcVyVZvfztB6BLqmRbjPY2uLphzyMu@fi1.nnmm.me:443?security=tls&type=tcp&sni=fi1.nnmm.me&fp=firefox&alpn=h2,http%2F1.1#🇫🇮%20Финляндия%20🐌
 trojan://A_YcVyVZvfztB6BLqmRbjPY2uLphzyMu@us.nnmm.me:443?security=tls&type=tcp&sni=us.nnmm.me&fp=firefox&alpn=h2,http%2F1.1#🇺🇸%20США
 trojan://A_YcVyVZvfztB6BLqmRbjPY2uLphzyMu@ja.nnmm.me:443?security=tls&type=tcp&sni=ja.nnmm.me&fp=firefox&alpn=http%2F1.1#🇯🇵%20Япония
+trojan://A_YcVyVZvfztB6BLqmRbjPY2uLphzyMu@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me&fp=chrome&alpn=http%2F1.1#🇷🇺%20Россия
